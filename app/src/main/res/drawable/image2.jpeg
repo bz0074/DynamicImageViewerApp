@@ -1,6 +1,6 @@
+// https://www.apple.com/newsroom/images/product/watch/lifestyle/Apple_announces-watch-se_09152020_big.jpg.large_2x.jpg
 
-https://thumbs.dreamstime.com/z/beach-tropical-maui-hawaii-12058991.jpg?ct=jpeg
 
 Glide.with(context)
-     .load("https://thumbs.dreamstime.com/z/beach-tropical-maui-hawaii-12058991.jpg?ct=jpeg") // Replace with the actual image URL
+     .load("https://www.apple.com/newsroom/images/product/watch/lifestyle/Apple_announces-watch-se_09152020_big.jpg.large_2x.jpg") 
      .into(imageView);
