@@ -1,2 +1,6 @@
 
-https://thumbs.dreamstime.com/z/happy-family-jumping-beach-together-55325505.jpg?ct=jpeg
+// https://variety.com/wp-content/uploads/2023/06/Black-Women.jpg?w=1000&h=562&crop=1
+
+Glide.with(context)
+     .load("https://variety.com/wp-content/uploads/2023/06/Black-Women.jpg?w=1000&h=562&crop=1") 
+     .into(imageView);
