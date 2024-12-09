@@ -1,2 +1,3 @@
 rootProject.name = "DynamicImageViewerApp"
 include ':app'
+include ':DynamicImageViewerApp'
