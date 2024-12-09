@@ -1,2 +1,6 @@
 
 https://thumbs.dreamstime.com/z/beach-tropical-maui-hawaii-12058991.jpg?ct=jpeg
+
+Glide.with(context)
+     .load("https://thumbs.dreamstime.com/z/beach-tropical-maui-hawaii-12058991.jpg?ct=jpeg") // Replace with the actual image URL
+     .into(imageView);
