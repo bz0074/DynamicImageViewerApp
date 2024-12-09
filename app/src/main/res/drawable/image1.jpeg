@@ -1,1 +1,7 @@
-https://vietnam.travel/sites/default/files/inline-images/shutterstock_585187837.jpg
+https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:eco,dpr_2/rockcms/2022-03/220317-Daye-Covington-ew-321p-c21232.jpg
+
+
+
+Glide.with(context)
+     .load("https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:eco,dpr_2/rockcms/2022-03/220317-Daye-Covington-ew-321p-c21232.jpg") // Replace with the actual image URL
+     .into(imageView);
